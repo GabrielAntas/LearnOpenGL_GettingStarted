@@ -1,0 +1,1 @@
+To jest kod napisany na podstawie tutorialu ,,Learn OpenGL" - Rozdział ,,Getting Started".
